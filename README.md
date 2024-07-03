@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/TheAyushB/Leetcode/tree/master/0046-permutations) |
 | [0137-single-number-ii](https://github.com/TheAyushB/Leetcode/tree/master/0137-single-number-ii) |
 ## Bit Manipulation
 |  |
@@ -45,4 +46,5 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TheAyushB/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/TheAyushB/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
