@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0046-permutations](https://github.com/TheAyushB/Leetcode/tree/master/0046-permutations) |
 | [0137-single-number-ii](https://github.com/TheAyushB/Leetcode/tree/master/0137-single-number-ii) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/TheAyushB/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Bit Manipulation
 |  |
 | ------- |
