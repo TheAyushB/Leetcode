@@ -4,7 +4,6 @@ class Solution {
         for(int hour : hours)
             if(hour >= target)
                 count++;
-
         return count;
     }
 }
