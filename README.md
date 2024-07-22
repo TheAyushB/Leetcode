@@ -30,15 +30,18 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0046-permutations](https://github.com/TheAyushB/Leetcode/tree/master/0046-permutations) |
 | [0137-single-number-ii](https://github.com/TheAyushB/Leetcode/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/TheAyushB/Leetcode/tree/master/0268-missing-number) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/TheAyushB/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/TheAyushB/Leetcode/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/TheAyushB/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TheAyushB/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0268-missing-number](https://github.com/TheAyushB/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -48,4 +51,16 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TheAyushB/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/TheAyushB/Leetcode/tree/master/0046-permutations) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/TheAyushB/Leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/TheAyushB/Leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/TheAyushB/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
