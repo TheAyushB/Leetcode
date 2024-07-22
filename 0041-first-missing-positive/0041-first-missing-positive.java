@@ -10,6 +10,7 @@ class Solution {
 
             }
         }
+        // finding first missing positive
         for(int i = 1; i <= n; i++)
             if(i != nums[i - 1])
                 return i;
