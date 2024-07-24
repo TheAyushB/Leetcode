@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/TheAyushB/Leetcode/tree/master/0046-permutations) |
 | [0134-gas-station](https://github.com/TheAyushB/Leetcode/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/TheAyushB/Leetcode/tree/master/0137-single-number-ii) |
+| [0239-sliding-window-maximum](https://github.com/TheAyushB/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/TheAyushB/Leetcode/tree/master/0268-missing-number) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/TheAyushB/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Bit Manipulation
@@ -70,4 +71,20 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/TheAyushB/Leetcode/tree/master/0134-gas-station) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/TheAyushB/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/TheAyushB/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/TheAyushB/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/TheAyushB/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
