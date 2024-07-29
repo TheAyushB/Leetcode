@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TheAyushB/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/TheAyushB/Leetcode/tree/master/0020-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -92,4 +93,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/TheAyushB/Leetcode/tree/master/1791-richest-customer-wealth) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/TheAyushB/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
