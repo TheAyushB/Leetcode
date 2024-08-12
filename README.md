@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/TheAyushB/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/TheAyushB/Leetcode/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/TheAyushB/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/TheAyushB/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/TheAyushB/Leetcode/tree/master/0778-reorganize-string) |
 ## Greedy
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/TheAyushB/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TheAyushB/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/TheAyushB/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/TheAyushB/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/TheAyushB/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/TheAyushB/Leetcode/tree/master/0778-reorganize-string) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/TheAyushB/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/TheAyushB/Leetcode/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/TheAyushB/Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Linked List
 |  |
 | ------- |
@@ -145,4 +148,12 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0621-task-scheduler](https://github.com/TheAyushB/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/TheAyushB/Leetcode/tree/master/0778-reorganize-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/TheAyushB/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/TheAyushB/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
