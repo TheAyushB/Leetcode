@@ -24,7 +24,7 @@ class Solution {
         while(!q.isEmpty()){
             int size = q.size(); // total no of nodes in the current level
             List<Integer> lst = new ArrayList<>(); // keeps track of nodes at a particular level
-            while(size-- > 0){
+            while(size-- > 0){ // traverse all the nodes in the current level
                 TreeNode node = q.remove();
                 lst.add(node.val);
                 if(node.left != null)
