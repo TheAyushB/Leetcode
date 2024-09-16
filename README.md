@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/TheAyushB/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/TheAyushB/Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/TheAyushB/Leetcode/tree/master/0070-climbing-stairs) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/TheAyushB/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 ## Counting
 |  |
@@ -220,4 +222,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0014-longest-common-prefix](https://github.com/TheAyushB/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/TheAyushB/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/TheAyushB/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
