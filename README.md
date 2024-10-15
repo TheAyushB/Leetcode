@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/TheAyushB/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/TheAyushB/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/TheAyushB/Leetcode/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/TheAyushB/Leetcode/tree/master/0322-coin-change) |
 | [0621-task-scheduler](https://github.com/TheAyushB/Leetcode/tree/master/0621-task-scheduler) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/TheAyushB/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1791-richest-customer-wealth](https://github.com/TheAyushB/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0070-climbing-stairs](https://github.com/TheAyushB/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/TheAyushB/Leetcode/tree/master/0091-decode-ways) |
+| [0322-coin-change](https://github.com/TheAyushB/Leetcode/tree/master/0322-coin-change) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/TheAyushB/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 ## Counting
 |  |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0102-binary-tree-level-order-traversal](https://github.com/TheAyushB/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TheAyushB/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/TheAyushB/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/TheAyushB/Leetcode/tree/master/0322-coin-change) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TheAyushB/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
