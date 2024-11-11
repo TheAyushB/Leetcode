@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/TheAyushB/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TheAyushB/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TheAyushB/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/TheAyushB/Leetcode/tree/master/0041-first-missing-positive) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/TheAyushB/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TheAyushB/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TheAyushB/Leetcode/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/TheAyushB/Leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/TheAyushB/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/TheAyushB/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TheAyushB/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
