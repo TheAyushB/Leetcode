@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0137-single-number-ii](https://github.com/TheAyushB/Leetcode/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/TheAyushB/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/TheAyushB/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TheAyushB/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/TheAyushB/Leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/TheAyushB/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TheAyushB/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/TheAyushB/Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/TheAyushB/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TheAyushB/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Graph
 |  |
