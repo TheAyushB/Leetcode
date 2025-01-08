@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/TheAyushB/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/TheAyushB/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TheAyushB/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/TheAyushB/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/TheAyushB/Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -263,4 +264,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/TheAyushB/Leetcode/tree/master/0207-course-schedule) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/TheAyushB/Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/TheAyushB/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
