@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/TheAyushB/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/TheAyushB/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TheAyushB/Leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/TheAyushB/Leetcode/tree/master/0338-counting-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0091-decode-ways](https://github.com/TheAyushB/Leetcode/tree/master/0091-decode-ways) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TheAyushB/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/TheAyushB/Leetcode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/TheAyushB/Leetcode/tree/master/0338-counting-bits) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/TheAyushB/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 ## Counting
 |  |
