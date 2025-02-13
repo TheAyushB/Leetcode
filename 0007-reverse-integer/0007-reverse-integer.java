@@ -9,7 +9,7 @@ class Solution {
                 return 0;
             }
             result = result * 10 + lastDigit;
-            x =x/10;
+            x = x/10;
         }
         return result;
     }
