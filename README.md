@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0134-gas-station](https://github.com/TheAyushB/Leetcode/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/TheAyushB/Leetcode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TheAyushB/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0204-count-primes](https://github.com/TheAyushB/Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TheAyushB/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/TheAyushB/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/TheAyushB/Leetcode/tree/master/0268-missing-number) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/TheAyushB/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TheAyushB/Leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/TheAyushB/Leetcode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/TheAyushB/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/TheAyushB/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TheAyushB/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/TheAyushB/Leetcode/tree/master/0258-add-digits) |
@@ -278,5 +280,10 @@ Collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/TheAyushB/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/TheAyushB/Leetcode/tree/master/0258-add-digits) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/TheAyushB/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
