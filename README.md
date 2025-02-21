@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/TheAyushB/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TheAyushB/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/TheAyushB/Leetcode/tree/master/0338-counting-bits) |
+| [0476-number-complement](https://github.com/TheAyushB/Leetcode/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/TheAyushB/Leetcode/tree/master/1054-complement-of-base-10-integer) |
 ## Hash Table
 |  |
