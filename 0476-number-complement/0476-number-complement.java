@@ -1,11 +1,11 @@
 class Solution {
     public int findComplement(int num) {
-        int number = num;
+        int n = num;
         int mask = 0;
-        while(number != 0) {
+        while(n != 0) {
             mask = mask << 1 | 1;
-            number = number >> 1;
+            n = n >> 1;
         }
-        return (~num & mask);
+        return (~num & mask);      // return the ORIGINAL num!!!
     }
 }
