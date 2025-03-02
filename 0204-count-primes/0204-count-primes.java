@@ -2,9 +2,7 @@ class Solution {
     public int countPrimes(int n) {
         boolean[] primes = new boolean[n + 1];
 
-        // make all numbers true for prime
         Arrays.fill(primes, true);
-        
         int count = 0;
 
         for(int i = 2; i < n; i++) {
@@ -14,7 +12,7 @@ class Solution {
                     primes[j] = false;
                 }
             }
-        }
+        } 
         return count;
     }
 }
