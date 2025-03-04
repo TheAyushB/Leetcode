@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0091-decode-ways](https://github.com/TheAyushB/Leetcode/tree/master/0091-decode-ways) |
 | [0208-implement-trie-prefix-tree](https://github.com/TheAyushB/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TheAyushB/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0742-to-lower-case](https://github.com/TheAyushB/Leetcode/tree/master/0742-to-lower-case) |
 | [0778-reorganize-string](https://github.com/TheAyushB/Leetcode/tree/master/0778-reorganize-string) |
 ## Backtracking
 |  |
