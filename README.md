@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TheAyushB/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/TheAyushB/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/TheAyushB/Leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/TheAyushB/Leetcode/tree/master/0278-first-bad-version) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/TheAyushB/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Sorting
 |  |
@@ -288,4 +289,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/TheAyushB/Leetcode/tree/master/0204-count-primes) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/TheAyushB/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
