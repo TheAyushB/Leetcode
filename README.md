@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0041-first-missing-positive](https://github.com/TheAyushB/Leetcode/tree/master/0041-first-missing-positive) |
 | [0208-implement-trie-prefix-tree](https://github.com/TheAyushB/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/TheAyushB/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/TheAyushB/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TheAyushB/Leetcode/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/TheAyushB/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/TheAyushB/Leetcode/tree/master/0778-reorganize-string) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0091-decode-ways](https://github.com/TheAyushB/Leetcode/tree/master/0091-decode-ways) |
 | [0208-implement-trie-prefix-tree](https://github.com/TheAyushB/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TheAyushB/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/TheAyushB/Leetcode/tree/master/0242-valid-anagram) |
 | [0742-to-lower-case](https://github.com/TheAyushB/Leetcode/tree/master/0742-to-lower-case) |
 | [0778-reorganize-string](https://github.com/TheAyushB/Leetcode/tree/master/0778-reorganize-string) |
 ## Backtracking
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/TheAyushB/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/TheAyushB/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/TheAyushB/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TheAyushB/Leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/TheAyushB/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/TheAyushB/Leetcode/tree/master/0621-task-scheduler) |
