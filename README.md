@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/TheAyushB/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/TheAyushB/Leetcode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/TheAyushB/Leetcode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/TheAyushB/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/TheAyushB/Leetcode/tree/master/0621-task-scheduler) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/TheAyushB/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/TheAyushB/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/TheAyushB/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/TheAyushB/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TheAyushB/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/TheAyushB/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/TheAyushB/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/TheAyushB/Leetcode/tree/master/0778-reorganize-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TheAyushB/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/TheAyushB/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TheAyushB/Leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/TheAyushB/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/TheAyushB/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/TheAyushB/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/TheAyushB/Leetcode/tree/master/0778-reorganize-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TheAyushB/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -151,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/TheAyushB/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/TheAyushB/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/TheAyushB/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/TheAyushB/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/TheAyushB/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/TheAyushB/Leetcode/tree/master/0778-reorganize-string) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/TheAyushB/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -184,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/TheAyushB/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0191-number-of-1-bits](https://github.com/TheAyushB/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TheAyushB/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/TheAyushB/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -192,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/TheAyushB/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/TheAyushB/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -204,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/TheAyushB/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/TheAyushB/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/TheAyushB/Leetcode/tree/master/0778-reorganize-string) |
 ## Two Pointers
@@ -308,4 +315,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/TheAyushB/Leetcode/tree/master/0278-first-bad-version) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/TheAyushB/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
