@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/TheAyushB/Leetcode/tree/master/0621-task-scheduler) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/TheAyushB/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/TheAyushB/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/TheAyushB/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1791-richest-customer-wealth](https://github.com/TheAyushB/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/TheAyushB/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Bit Manipulation
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/TheAyushB/Leetcode/tree/master/0036-valid-sudoku) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/TheAyushB/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1791-richest-customer-wealth](https://github.com/TheAyushB/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Stack
 |  |
