@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/TheAyushB/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/TheAyushB/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/TheAyushB/Leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/TheAyushB/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/TheAyushB/Leetcode/tree/master/0049-group-anagrams) |
 | [0134-gas-station](https://github.com/TheAyushB/Leetcode/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/TheAyushB/Leetcode/tree/master/0137-single-number-ii) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/TheAyushB/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TheAyushB/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/TheAyushB/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/TheAyushB/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/TheAyushB/Leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/TheAyushB/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/TheAyushB/Leetcode/tree/master/0231-power-of-two) |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/TheAyushB/Leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/TheAyushB/Leetcode/tree/master/0048-rotate-image) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/TheAyushB/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1791-richest-customer-wealth](https://github.com/TheAyushB/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Stack
