@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/TheAyushB/Leetcode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/TheAyushB/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/TheAyushB/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0486-predict-the-winner](https://github.com/TheAyushB/Leetcode/tree/master/0486-predict-the-winner) |
 | [0621-task-scheduler](https://github.com/TheAyushB/Leetcode/tree/master/0621-task-scheduler) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/TheAyushB/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/TheAyushB/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0241-different-ways-to-add-parentheses](https://github.com/TheAyushB/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/TheAyushB/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/TheAyushB/Leetcode/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/TheAyushB/Leetcode/tree/master/0486-predict-the-winner) |
 ## Binary Search
 |  |
 | ------- |
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0241-different-ways-to-add-parentheses](https://github.com/TheAyushB/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/TheAyushB/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/TheAyushB/Leetcode/tree/master/0338-counting-bits) |
+| [0486-predict-the-winner](https://github.com/TheAyushB/Leetcode/tree/master/0486-predict-the-winner) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/TheAyushB/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
 ## Counting
 |  |
@@ -294,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0231-power-of-two](https://github.com/TheAyushB/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TheAyushB/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0486-predict-the-winner](https://github.com/TheAyushB/Leetcode/tree/master/0486-predict-the-winner) |
 ## Graph
 |  |
 | ------- |
@@ -327,4 +331,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/TheAyushB/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/TheAyushB/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
