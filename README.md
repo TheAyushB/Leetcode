@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1496-lucky-numbers-in-a-matrix](https://github.com/TheAyushB/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1791-richest-customer-wealth](https://github.com/TheAyushB/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/TheAyushB/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3226-minimum-number-game](https://github.com/TheAyushB/Leetcode/tree/master/3226-minimum-number-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/TheAyushB/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/TheAyushB/Leetcode/tree/master/0778-reorganize-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TheAyushB/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [3226-minimum-number-game](https://github.com/TheAyushB/Leetcode/tree/master/3226-minimum-number-game) |
 ## Greedy
 |  |
 | ------- |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/TheAyushB/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/TheAyushB/Leetcode/tree/master/0778-reorganize-string) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/TheAyushB/Leetcode/tree/master/0902-minimum-number-of-refueling-stops) |
+| [3226-minimum-number-game](https://github.com/TheAyushB/Leetcode/tree/master/3226-minimum-number-game) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -317,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/TheAyushB/Leetcode/tree/master/0258-add-digits) |
+| [3226-minimum-number-game](https://github.com/TheAyushB/Leetcode/tree/master/3226-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
