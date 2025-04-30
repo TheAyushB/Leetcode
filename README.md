@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/TheAyushB/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/TheAyushB/Leetcode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/TheAyushB/Leetcode/tree/master/0486-predict-the-winner) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/TheAyushB/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Binary Search
 |  |
 | ------- |
