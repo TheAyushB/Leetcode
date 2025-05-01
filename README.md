@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/TheAyushB/Leetcode/tree/master/0049-group-anagrams) |
 | [0134-gas-station](https://github.com/TheAyushB/Leetcode/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/TheAyushB/Leetcode/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/TheAyushB/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TheAyushB/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/TheAyushB/Leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/TheAyushB/Leetcode/tree/master/0204-count-primes) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/TheAyushB/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/TheAyushB/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/TheAyushB/Leetcode/tree/master/0049-group-anagrams) |
+| [0149-max-points-on-a-line](https://github.com/TheAyushB/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0208-implement-trie-prefix-tree](https://github.com/TheAyushB/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/TheAyushB/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/TheAyushB/Leetcode/tree/master/0242-valid-anagram) |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/TheAyushB/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/TheAyushB/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/TheAyushB/Leetcode/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/TheAyushB/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/TheAyushB/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/TheAyushB/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TheAyushB/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -347,4 +350,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/TheAyushB/Leetcode/tree/master/0486-predict-the-winner) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/TheAyushB/Leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
