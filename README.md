@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/TheAyushB/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/TheAyushB/Leetcode/tree/master/0049-group-anagrams) |
 | [0134-gas-station](https://github.com/TheAyushB/Leetcode/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/TheAyushB/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/TheAyushB/Leetcode/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/TheAyushB/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TheAyushB/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/TheAyushB/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/TheAyushB/Leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/TheAyushB/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/TheAyushB/Leetcode/tree/master/0222-count-complete-tree-nodes) |
