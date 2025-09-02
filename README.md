@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/TheAyushB/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/TheAyushB/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1791-richest-customer-wealth](https://github.com/TheAyushB/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/TheAyushB/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/TheAyushB/Leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/TheAyushB/Leetcode/tree/master/3226-minimum-number-game) |
 ## Bit Manipulation
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/TheAyushB/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0742-to-lower-case](https://github.com/TheAyushB/Leetcode/tree/master/0742-to-lower-case) |
 | [0778-reorganize-string](https://github.com/TheAyushB/Leetcode/tree/master/0778-reorganize-string) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/TheAyushB/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Backtracking
 |  |
 | ------- |
