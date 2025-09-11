@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/TheAyushB/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/TheAyushB/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/TheAyushB/Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/TheAyushB/Leetcode/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/TheAyushB/Leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/TheAyushB/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/TheAyushB/Leetcode/tree/master/0137-single-number-ii) |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/TheAyushB/Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/TheAyushB/Leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TheAyushB/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/TheAyushB/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/TheAyushB/Leetcode/tree/master/0242-valid-anagram) |
@@ -246,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/TheAyushB/Leetcode/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/TheAyushB/Leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
